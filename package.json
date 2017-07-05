@@ -1,0 +1,22 @@
+{
+  "name": "bxslider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/sliderTest_bxslider.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/sliderTest_bxslider/issues"
+  },
+  "homepage": "https://github.com/paranoimin/sliderTest_bxslider#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
